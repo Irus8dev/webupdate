@@ -16,6 +16,6 @@
 	<Info Text=" and so on..."/>
    </ChangeLog>
    <Instructions>
-	<File Name="TestWebUpdater.exe" Destination="" Terminate="yes"/>
+	<File Name=" TestWebUpdater.exe" Destination="" Terminate="yes"/>
    </Instructions>
 </Updates>
