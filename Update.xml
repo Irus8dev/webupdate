@@ -7,15 +7,15 @@
 	<Version>1.132</Version>
    </Details>
    <ChangeLog>
-	<Info Text=" *Added new demo for the updater."/>
-	<Info Text=" *Added an option to create XML files."/>
-	<Info Text=" *Cleaned up the code."/>
-	<Info Text=" *Faster update procedures."/>
-	<Info Text=" *Option to add personal details."/>
-	<Info Text=" *Option to match details (application and remote file)."/>
-	<Info Text=" and so on..."/>
+	<Info Text="*Added new demo for the updater."/>
+	<Info Text="*Added an option to create XML files."/>
+	<Info Text="*Cleaned up the code."/>
+	<Info Text="*Faster update procedures."/>
+	<Info Text="*Option to add personal details."/>
+	<Info Text="*Option to match details (application and remote file)."/>
+	<Info Text="and so on..."/>
    </ChangeLog>
    <Instructions>
-	<File Name=" TestWebUpdater.exe" Destination="" Terminate="yes"/>
+	<File Name="TestWebUpdater.exe" Destination="" Terminate="yes"/>
    </Instructions>
 </Updates>
