@@ -2,6 +2,8 @@
 <Updates>
    <Details>
 	<ApplicationName>TestWebUpdater</ApplicationName>
+	<Author>Suri</Author>
+	<Company>Chalard LLC</Company>
 	<Version>1.132</Version>
    </Details>
    <ChangeLog>
